@@ -1,0 +1,5 @@
+org.jclouds.dmtf
+org.jclouds.dmtf.ovf
+org.jclouds.dmtf.ovf.internal
+org.jclouds.dmtf.ovf.environment
+org.jclouds.dmtf.cim
