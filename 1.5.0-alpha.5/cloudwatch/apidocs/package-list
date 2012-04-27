@@ -1,0 +1,6 @@
+org.jclouds.cloudwatch
+org.jclouds.cloudwatch.config
+org.jclouds.cloudwatch.domain
+org.jclouds.cloudwatch.functions
+org.jclouds.cloudwatch.options
+org.jclouds.cloudwatch.xml
